@@ -3,6 +3,6 @@
 
 
 ## 📟 GitHub Stats
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyxx&show_icons=true&theme=swift&card_width=200&line_height=20&include_all_commits=true)
+<a href="https://github.com/dohyxx"><img align="center" style="height:170px" src="https://github-readme-stats.vercel.app/api?username=dohyxx&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Dohyun's Github stats" /></a>
 
 
