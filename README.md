@@ -3,6 +3,6 @@
 
 
 ## 📟 GitHub Stats
-![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyxx&show_icons=true&theme=swift)
+![Dohyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyxx&show_icons=true&theme=swift&card_width=200&line_height=20&include_all_commits=true)
 
 
