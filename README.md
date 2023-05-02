@@ -1,13 +1,21 @@
 #### Mobile App Developer 
 > Flutter, Dart
 
+## 🔖 Portfolio
+<a href="https://www.notion.so/dohyxx/e9fc33a727ac4171a6faf5a58ef5abd6?pvs=4"><img src="https://img.shields.io/badge/-portfolio-important"/></a> </t>
+
 ## 💻 Tech Stack
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> </t>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-F37C20?style=flat&logo=Java&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=Laravel&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
 
 
 ## 🛠 Apps on Store
