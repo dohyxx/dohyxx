@@ -1,7 +1,7 @@
 #### Mobile App Developer 
 > Flutter, Dart
 
-> <a href="https://www.notion.so/dohyxx/e9fc33a727ac4171a6faf5a58ef5abd6?pvs=4"><img src="https://img.shields.io/badge/Portfolio-683D87?style=falt&logo=Bitrise"/></a> </t>
+> <a href="https://dohyxx.notion.site/e9fc33a727ac4171a6faf5a58ef5abd6"><img src="https://img.shields.io/badge/Portfolio-683D87?style=falt&logo=Bitrise"/></a> </t>
 
 ## 💻 Tech Stack
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> </t>
